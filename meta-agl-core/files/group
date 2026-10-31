@@ -106,4 +106,5 @@ kuksa::900:
 qemu::901:
 kvm::902:
 persistent-api::903:
+debug::904:
 ptest::2001:
